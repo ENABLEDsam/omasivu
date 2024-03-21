@@ -1,0 +1,32 @@
+body{
+    color: white;
+    background:#8f0b0b;
+}
+
+main{
+    background: #0c06ba;
+    text-align: center;
+}
+
+.header{
+    position: fixed;
+    padding: 10px 16px;
+    background: #8f0b0b;
+    top: 0;
+    left: 0;
+    width: 98.5%
+}
+
+.mid{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
